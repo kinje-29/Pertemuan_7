@@ -16,12 +16,12 @@ perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang te
 
 **code**
 
-        `baris = 10`<br>
-        `kolom = barisan`<br>
-            `for i in range(baris):`<br>
-              `for j in range(kolom):`<br>
-              `hitung = i+j`<br>
-        `print("{0:>5}".format(hitung), end='')`<br>
+        `baris = 10`
+        `kolom = barisan`
+            `for i in range(baris):`
+              `for j in range(kolom):`
+              `hitung = i+j`
+        `print("{0:>5}".format(hitung), end='')`
 
     `print()`
 
