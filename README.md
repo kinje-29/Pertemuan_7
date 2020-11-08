@@ -1,5 +1,16 @@
 # Pertemuan 7
 
+
+## Program python perulangan bertingkat
+
+perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang terdapat du jenis perulangan di python, yaitu **for** dan **While**. <br>
+`for` disebut counted loop (perulangan yang terhitung)<br>
+*for* biasanya digunakan untuk mengulangi code yang sudah diketahui banyak perulangan.<br>
+`While` disebut uncounted loop (perulangan yang tak terhitung)<br>
+*While* untuk perulangan yang memiliki syarat dan tidak tentuk berapa banyak perulangannya.
+
+
+
 ## Latihan 1
   Saya diberi Tugas untuk Buat program dengan perulangan bertingkat (nested) for.
 
