@@ -37,7 +37,28 @@ dan funsgi *range()* berfungsi untuk membuat list dengan range dari 1-10.<br>
 ![02.png](/gambar1/02.png)
 
 Hasil Output<br> 
-![03.png](/gambar1/03.png)
+![03.png](/gambar1/03.png)<br>
+
+
+
+## Latihan 2
+
+Strukur algoritma latihan 2<br>
+
+- Tampilkan n bilangan acak yang lebih kecil dari 0.5.
+- nilai n diisi pada saat runtime
+- anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya<br>
+
+**Fungsi random()** <br>`Fungsi ini akan mengembalikan bilangan float random x, dimana 0 < x < 1. Fungsi random() tidak memiliki parameter masukan.`<br>
+
+**Gambar 1**<br>
+![01.png](/gambar2/01.png)
+
+**Gambar 2**<br>
+![02.png](/gambar2/02.png)
+
+**Hasil output**<br>
+![03.png](/gambar2/03.png)
 
 
 
