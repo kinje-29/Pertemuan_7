@@ -33,7 +33,8 @@ perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang te
 **Gambar 2**
 ![02.png](/gambar1/02.png)
 
-Hasil Output 
+
+Hasil Output<br> 
 ![03.png](/gambar1/03.png)
 
 
