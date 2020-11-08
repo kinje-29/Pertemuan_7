@@ -27,8 +27,8 @@ perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang te
 
 
 
-**penjelasan**
-
+**gambar**
+    **Gambar 1**
 ![01.png](/gambar1/01.png)
 
 
