@@ -27,12 +27,14 @@ perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang te
 
 
 
-**Gambar 1**
+**Gambar 1**<br>
+Pertama kita menentukan banyak nya perulangan sebanyak 10x<br>
 ![01.png](/gambar1/01.png)
 
-**Gambar 2**
+**Gambar 2**<br>
+Variable *i* berfungsi untuk menampung indeks<br>
+dan funsgi *range()* berfungsi untuk membuat list dengan range dari 1-10.<br>
 ![02.png](/gambar1/02.png)
-
 
 Hasil Output<br> 
 ![03.png](/gambar1/03.png)
