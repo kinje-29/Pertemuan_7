@@ -58,7 +58,6 @@ Fungsi input() berfungsi untuk menerima baris input dari user dan mengembalikann
 
 **Gambar 2**<br>
 ![02.png](/gambar2/02.png)<br>
-Fungsi **format()** berfungsi untuk melakukan pengaturan format string yang akan dicetak atau ditampilkan ke monitor.
 
 **Hasil output**<br>
 ![03.png](/gambar2/03.png)
